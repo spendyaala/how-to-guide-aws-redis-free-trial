@@ -13,26 +13,27 @@ Notice you have two products to choose from:
 * Redis Enterprise Cloud Annual Commit
 
 Go ahead and choose `Redis Enterprise Cloud Flexible` option for this hands-on exercise.
+<img width="1296" alt="bedrock-redis-rc-1" src="https://github.com/spendyaala/how-to-guide-aws-redis-free-trial/assets/6223831/f25c94a6-6a36-4369-91bd-bcc15679ebda">
 
-<img width="1296" alt="bedrock-redis-rc-1" src="https://github.com/RedisVentures/aws-redis-bedrock-stack/assets/6223831/b57240a6-ed26-4755-9088-8b05072a0d0a">
 
 Continue to click on `View purchase options`
 
-<img width="1296" alt="bedrock-redis-rc-2" src="https://github.com/RedisVentures/aws-redis-bedrock-stack/assets/6223831/8de36e98-71bf-49c1-b0b8-640388f6fdde">
+<img width="1296" alt="bedrock-redis-rc-2" src="https://github.com/spendyaala/how-to-guide-aws-redis-free-trial/assets/6223831/eb1cd0df-a00d-43b2-ae06-92a019197383">
 
 On the product page,
 1. Click on the `Subscribe` button. This button gets greyed out after you click on it for the first time.
 2. Then the banner highlighted at the top, will appear.
 3. On this banner, go ahead and click on `Setup your account`.
-<img width="1296" alt="bedrock-redis-rc-3" src="https://github.com/RedisVentures/aws-redis-bedrock-stack/assets/6223831/cd5cf68e-b65c-4745-925a-17364aa7fc58">
+
+<img width="1296" alt="bedrock-redis-rc-3" src="https://github.com/spendyaala/how-to-guide-aws-redis-free-trial/assets/6223831/f9e54a8f-86cc-4ec5-a4c6-e07836ce7616">
 
 This navigates you to the sign-in page of `Redis Enterprise Cloud` web console.
 
-<img width="1288" alt="bedrock-redis-rc-4" src="https://github.com/RedisVentures/aws-redis-bedrock-stack/assets/6223831/3d23a948-44f2-4287-b0e4-47350ce5a42f">
+<img width="1288" alt="bedrock-redis-rc-4" src="https://github.com/spendyaala/how-to-guide-aws-redis-free-trial/assets/6223831/8381a74e-e7ca-4902-a392-5909d71b48e9">
 
 As soon as you sign in , you will see that your `AWS Account` ( example: `Srini 1320974`) is displayed and you will be able to connect this AWS account with Redis Enterprise Cloud web console.
 Go ahead and check the selection box highlighted.
-<img width="1288" alt="bedrock-redis-rc-5" src="https://github.com/RedisVentures/aws-redis-bedrock-stack/assets/6223831/8b7281f1-12d9-4f94-8e35-274137dae51b">
+<img width="1288" alt="bedrock-redis-rc-5" src="https://github.com/spendyaala/how-to-guide-aws-redis-free-trial/assets/6223831/a8b1c0a3-0281-4532-bea8-053bb3b53b9d">
 
 Click `Connect account`. This will connect your AWS account with "Redis Enterprise Cloud" web console.
 
