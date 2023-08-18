@@ -25,7 +25,7 @@ On the product page,
 2. Then the banner highlighted at the top, will appear.
 3. On this banner, go ahead and click on `Setup your account`.
 
-<img width="1296" alt="bedrock-redis-rc-3" src="https://github.com/spendyaala/how-to-guide-aws-redis-free-trial/assets/6223831/f9e54a8f-86cc-4ec5-a4c6-e07836ce7616">
+<img width="1296" alt="bedrock-redis-rc-3" src="https://github.com/spendyaala/how-to-guide-aws-redis-free-trial/assets/6223831/d7fe49b8-1f45-4ccf-a9d2-90cc4ba4c343">
 
 This navigates you to the sign-in page of `Redis Enterprise Cloud` web console.
 
@@ -49,7 +49,7 @@ As soon as you login, you will see this UI. Notice that there is a Free Trial ba
 2. On the `Setup` tab, you will see cloud vendors.
 3. Go ahead and select `AWS` if it is not highlighted and selected already.
 
-<img width="1288" alt="bedrock-redis-rc-8" src="https://github.com/spendyaala/how-to-guide-aws-redis-free-trial/assets/6223831/16fee76d-e88a-4c80-b02b-99830220fa19">
+<img width="1293" alt="bedrock-redis-rc-8" src="https://github.com/spendyaala/how-to-guide-aws-redis-free-trial/assets/6223831/2bb3e18c-e5c7-46ff-ad70-750a7a17ef3d">
 
 Go ahead and select your `Region` and give `Subscription name` a name.
 
